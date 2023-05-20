@@ -1,0 +1,91 @@
+####################
+#python
+####################
+    ##Check version
+    python -V
+    python --version
+
+    ##Check path
+    where python
+
+####################
+#pip
+####################
+    ##Check version
+    pip -V
+
+####################
+#virtualenv
+####################
+    ##Install
+    pip install virtualenv
+
+    ##Create
+    virtualenv env
+
+    ##Activate
+    env\scripts\activate
+
+    ##Deactivate
+    env\scripts\deactivate
+
+####################
+#django
+####################
+
+    ##URLs
+    https://docs.djangoproject.com/en/
+    https://www.youtube.com/watch?v=PtQiiknWUcI
+    https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO
+
+    ##Install
+    pip install django
+    pip3.10 install Django
+
+    ##Check if you have Django installed
+    pip show Django
+    python -m pip show Django
+
+    ##Import
+    import Django
+
+    ##Admin commands
+    django-admin
+
+    ##Create boilerplate files, setup Django application
+    django-admin startproject [Your project name]
+
+    ##Start server (run inside your application's folder)
+    python manage.py runserver
+
+####################
+#Github
+####################
+
+    ##Initializing a Git repository
+    If your locally-hosted code isn't tracked by any VCS, the first step is to initialize a Git repository. 
+
+    No1. Open Git Bash.
+
+    No2. Navigate to the root directory of your project.
+
+    No3. Initialize the local directory as a Git repository. By default, the initial branch is called main.
+
+        -If you’re using Git 2.28.0 or a later version, you can set the name of the default branch using -b.
+
+            git init -b main
+
+        -If you’re using Git 2.27.1 or an earlier version, you can set the name of the default branch using git symbolic-ref.
+
+            git init && git symbolic-ref HEAD refs/heads/main
+    
+    No4.Add the files in your new local repository. This stages them for the first commit.
+
+        $ git add .
+        # Adds the files in the local repository and stages them for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
+
+    No5.Commit the files that you've staged in your local repository.
+
+        $ git commit -m "First commit"
+        # Commits the tracked changes and prepares them to be pushed to a remote repository. To remov
+
