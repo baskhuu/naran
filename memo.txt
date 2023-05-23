@@ -60,6 +60,9 @@ TODO:Complete my master degree!
     ##Start server (run inside your application's folder)
     python manage.py runserver
 
+    ##Create Application called "base"
+    python manage.py startapp base
+    
 ####################
 #Github
 ####################
