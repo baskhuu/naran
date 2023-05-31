@@ -10,6 +10,9 @@ TODO:Complete my master degree!
     ##Check path
     where python
 
+    ##Check packages
+    pip freeze
+
 ####################
 #pip
 ####################
@@ -36,10 +39,17 @@ TODO:Complete my master degree!
 ####################
 
     ##URLs
+    https://www.javatpoint.com/django-tutorial
     https://docs.djangoproject.com/en/
     https://www.youtube.com/watch?v=PtQiiknWUcI
     https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO
-
+    https://www.w3schools.com/django/
+    https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49#%EF%BC%92%EF%BC%94%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B
+    https://blog.devgenius.io/django-and-flutter-a-step-by-step-tutorial-for-a-boilerplate-application-f564335f2e8b
+    https://qiita.com/zaburo/items/ab7f0eeeaec0e60d6b92
+    https://di-acc2.com/programming/python/5210/
+    https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+    
     ##Install
     pip install django
     pip3.10 install Django

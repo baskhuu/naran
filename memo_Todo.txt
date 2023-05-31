@@ -1,0 +1,21 @@
+These are the steps to become a typical Django developer
+
+    1.First, you need to know what are components.
+    2.Learn about the difference between makemigrations and migrate.
+    3.Learn Models,urls,admin,views,settings files.
+    4.Learn how to connect to the different database servers(PostgreSQL, My SQL, MongoDB, Oracle).
+    5.Learning class-based Models is preferred.
+    6.Learn more about MVT(Model View Template) structure.
+    7.Learn how to make CRUD operation.
+    8.Learn Django Rest API Framework.
+    9.Learn Django forms and why we use them.
+    10.Learn search preference feature.
+    11.Learn Oauth feature.
+    12.Learn Email/OTP verification system.
+    13.Learn How to deploy on Heroku/AWS.
+
+PowerShell shows (base) in front of prompt then
+The prefix (base) indicated that you are running inside the conda/anaconda environment.
+The command "conda deactivate" should bring you back to the standard prompt.
+
+    conda deactivate

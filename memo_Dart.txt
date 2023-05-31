@@ -1,0 +1,2 @@
+1.Generate widgets automatically from JSON
+https://www.youtube.com/watch?v=lxl4_Y59IH8
